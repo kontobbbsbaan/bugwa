@@ -13,35 +13,35 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857'
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
-global.mygc = 'wa.me/6285714170944'
-global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
+global.youtube = 'https://chat.whatsapp.com/FvDujLzzrQsGaJaRLVZ0Fg'
+global.ig = 'https://chat.whatsapp.com/FvDujLzzrQsGaJaRLVZ0Fg'
+global.mygc = 'https://chat.whatsapp.com/FvDujLzzrQsGaJaRLVZ0Fg'
+global.myweb = 'https://chat.whatsapp.com/FvDujLzzrQsGaJaRLVZ0Fg'
 global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'denyp857@gmail.com'
+global.email = ''
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Kian' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'yakuza bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'yakuza bot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312']
-global.premium = ['6281214281312']
-global.packname = 'HW MODS WA'
-global.ownerr = ['HW MODS WA']
-global.author = 'HW MODS WA'
+global.owner = ['6283845409710']
+global.premium = ['6283845409710']
+global.packname = 'By'
+global.ownerr = ['kian']
+global.author = 'yakuza'
 global.sessionName = 'haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
-    wait: '*Loading... Sabar Wibu*_',
+    wait: '*Loading...*_',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot Hw Mods',
+    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
