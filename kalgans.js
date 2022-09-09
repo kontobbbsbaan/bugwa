@@ -165,7 +165,6 @@ fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -186,7 +185,6 @@ fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -251,7 +249,7 @@ content: Buffer.from(status, 'utf-8')
 })
 return status}
 //=================================================//
-haikal.public = false
+haikal.public = true
 //=================================================//
 haikal.serializeM = (m) => smsg(haikal, m, store)
 haikal.ev.on('connection.update', async (update) => {
